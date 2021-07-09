@@ -41,8 +41,8 @@ h1 {
 
 .start, .next {
     cursor: pointer;
-    background: linear-gradient(180deg, #ffffff, #ffcc91);
-    border: 2px solid #d38558;
+    background: linear-gradient(184deg, rgba(73,73,198,1) 23%, rgba(83,88,207,1) 25%, rgba(14,144,195,1) 100%);
+    border: 2px solid #9e6113;
     box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.25);
     border-radius: 10px;
     height: 40px;
