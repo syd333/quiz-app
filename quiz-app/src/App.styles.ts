@@ -11,7 +11,8 @@ body {
     padding 0 40px;
     display: flex;
     justify-content: center;
-
+    background: rgb(255,255,255);
+    background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(241,241,241,1) 12%);
 * {
     box-sizing: border-box;
     font-family: forma-djr-deck, sans-serif;
